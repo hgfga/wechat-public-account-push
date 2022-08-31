@@ -26,7 +26,7 @@ export const config = {
     // }]
     USERS: [
       {name: '老婆0', id: "ofbmK5v2EJvyNLyebTNaEyNzouMA"}, 
- //     {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+      {name: '老婆1', id: "ofbmK5kCBGw5TEAdNPfcVhYQpxlE"}, 
 //      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
 //      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
